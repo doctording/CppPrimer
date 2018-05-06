@@ -1,17 +1,20 @@
-##C++ Primer 5th Answers
+# Solutions for C++ Primer 5th Answers
+
+---
 
 [![GitHub issues](https://img.shields.io/github/issues/pezy/CppPrimer.svg)](https://github.com/pezy/CppPrimer/issues)
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://raw.githubusercontent.com/pezy/Cpp-Primer/master/LICENSE)
 [![](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E8%AE%A8%E8%AE%BA%E5%8C%BA-yellowgreen.svg)](https://github.com/ReadingLab/Discussion-for-Cpp)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pezy/0.99)
+[![Slack](https://img.shields.io/badge/Slack-join-brightgreen.svg)](https://join.slack.com/t/cppprimers/shared_invite/enQtMjg4NzQ4NjU4NzczLTZiNWMxOGM0MDRjNzNkMGJhNjYxZjQ3NGFmYmRhZWVlYTI4YTBhMTE3NDhlYzNlYTM3OTA3MzU2MjhhYTE2YWI)
+[![Thanks](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/pezy)
 
-### Notes
+## Notes
 
 - Use `GCC 4.9+`, `Clang 3.4+`, `MSVC 14+`, and [others](http://en.cppreference.com/w/cpp/compiler_support).
 - Use `-std=c++11`(recommend: `-pedantic -Wall`) flag for compiling.
 - Have you discovered incorrect information? [Submit](https://github.com/pezy/CppPrimer/issues/new).
 
-### Contents
+## Contents
 
 - [Chapter 1. Getting Started](ch01/README.md)
 - Part I: The Basics
@@ -30,9 +33,9 @@
 - Part III: Tools for Class Authors
   - [Chapter 13. Copy Control](ch13/README.md)
   - [Chapter 14. Overloaded Operations and Conversions](ch14/README.md)
-  - [Chapter 15. Object-Oriented Programming](ch15)
-  - [Chapter 16. Templates and Generic Programming](ch16)
+  - [Chapter 15. Object-Oriented Programming](ch15/README.md)
+  - [Chapter 16. Templates and Generic Programming](ch16/README.md)
 - Part IV:  Advanced Topics
-  - [Chapter 17. Specialized Library Facilities](ch17)
-  - [Chapter 18. Tools for Large Programs](ch18)
+  - [Chapter 17. Specialized Library Facilities](ch17/README.md)
+  - [Chapter 18. Tools for Large Programs](ch18/README.md)
   - Chapter 19. Specialized Tools and Techniques
